@@ -1,0 +1,24 @@
+{
+  "name": "torquemada",
+  "version": "0.0.1",
+  "description": "Code smell chekcer and lint wrapper for all of you repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nogrant/torquemada.git"
+  },
+  "keywords": [
+    "lint",
+    "code",
+    "smell"
+  ],
+  "author": "rabbiabram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nogrant/torquemada/issues"
+  },
+  "homepage": "https://github.com/Nogrant/torquemada"
+}
